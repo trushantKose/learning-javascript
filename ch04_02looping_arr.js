@@ -20,8 +20,8 @@ for(let hero of heroes){
 // print the name of cities
 let cities = ['delhi', 'mumbai', 'nagpur', 'pune', 'chennai'];
 for(let city of cities){
-    console.log(city);
+    // console.log(city);
+    console.log(city.toUpperCase()); //all cities are print in upper case
 }
-
 
 
