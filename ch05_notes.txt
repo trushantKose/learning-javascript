@@ -1,0 +1,17 @@
+
+function() : block of code that perform specific work or task , it can be invoke whenever is needed
+
+function definition :- what is work
+
+function call :- call function to do the work
+
+function parameter ():- like local variable -> block of scope-> of function
+
+Arrow function (=>) :- Compact way of writing a function
+we can store function into a variables
+Arrow function is a part of "modern JavaScript";
+
+forEach Loop in Arrays:- A callback is a function passed as an argument to another function.
+- Remember :- forEach is use for normal calculation & print
+
+map :- Map use to create newArr
